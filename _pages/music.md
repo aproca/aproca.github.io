@@ -20,18 +20,24 @@ I've played piano for 18 years and was a singer in a local Zurich band. Below ar
 
 <a href='https://drive.google.com/file/d/1nEHh97I_6i-IhXay-hxe-NCrW2q2Ie2d/view?usp=share_link'>Our full performance recording.</a>
 
+<!-- Spooky by Dusty Springfield
+{% include embed-audio.html src="/assets/audio/spooky.mp3" %}
+
+Crazy by Gnarls Barkley
+{% include embed-audio.html src="/assets/audio/crazy.mp3" %}
+
+You Know I'm No Good by Amy Winehouse
+{% include embed-audio.html src="/assets/audio/imnogood.mp3" %}
+
+The Girl from Ipanema by Frank Sinatra
+{% include embed-audio.html src="/assets/audio/girlfromipanema.mp3" %}
+
+This Love by Maroon 5
+{% include embed-audio.html src="/assets/audio/thislove.mp3" %} -->
+
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OLcH1IWrdrQ" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/mlY3MoE-vRE" frameborder="0" allowfullscreen></iframe>
-
-<!-- <a href='https://www.youtube.com/watch?v=OLcH1IWrdrQ'>Me playing Impromptu Op. 90 No. 4 by Schubert</a> -->
-
-<!-- <iframe width="420" height="315" src="https://www.youtube.com/watch?v=mlY3MoE-vRE" frameborder="0" allowfullscreen></iframe> -->
-
-<!-- {% youtube mlY3MoE-vRE %} -->
-
-
-<!-- <a href='https://www.youtube.com/watch?v=mlY3MoE-vRE'>Me playing O Polichinelo by Villa Lobos</a> -->
 
 
