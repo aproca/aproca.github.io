@@ -36,15 +36,13 @@ This Love by Maroon 5
 {% include embed-audio.html src="/assets/audio/thislove.mp3" %}
 <br/>
 
-I Want to Break Free by Queen
+<!-- I Want to Break Free by Queen
 <iframe width="420" height="315" src="https://photos.google.com/share/AF1QipOXGDJp6IrKOleZ006UZD_L-S4BQA4WSrty1IAZxjyYugr4fZxaQlnLf078_QSMGQ/photo/AF1QipNazUJv-w0OX-TBPbDY62WpxmjsVnUgF4cxbCAu?key=WFpaZTlRSGdDWDZvb2pzU3F4bTlreFJpTUZ5NExR" frameborder="0" allowfullscreen></iframe>
-
 <br/>
 
 Pumped Up Kicks by Foster the People
-<iframe width="420" height="315" src="https://photos.google.com/share/AF1QipOXGDJp6IrKOleZ006UZD_L-S4BQA4WSrty1IAZxjyYugr4fZxaQlnLf078_QSMGQ/photo/AF1QipOsGU4u6AjJhim9GGtH3d1MR5de4Z0xmDlxP3mt?key=WFpaZTlRSGdDWDZvb2pzU3F4bTlreFJpTUZ5NExR" frameborder="0" allowfullscreen></iframe>
-
-<br/>
+<iframe width="420" height="315" src="https://photos.google.com/share/AF1QipOXGDJp6IrKOleZ006UZD_L-S4BQA4WSrty1IAZxjyYugr4fZxaQlnLf078_QSMGQ/photo/AF1QipOsGU4u6AjJhim9GGtH3d1MR5de4Z0xmDlxP3mt?key=WFpaZTlRSGdDWDZvb2pzU3F4bTlreFJpTUZ5NExR" frameborder="0" allowfullscreen></iframe> -->
+<!-- <br/> -->
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OLcH1IWrdrQ" frameborder="0" allowfullscreen></iframe>
 
