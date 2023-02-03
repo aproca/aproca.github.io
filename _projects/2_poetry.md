@@ -13,7 +13,7 @@ an underwater throne
 
 i have a burning in my soul <br/>
 that warms the frigid earth, <br/>
-ravenous to fest on my exisence. <br/>
+ravenous to feast on my existence. <br/>
 to drench my body <br/>
 in every taste, every touch, <br/>
 every searing pain and blissful ecstasy. <br/>

@@ -30,7 +30,7 @@ with tender kisses?
 I grieve at the thought <br/>
 that I may never have the luxury <br/>
 of hearing the slowing of my breath <br/>
-and sleep envelopes me <br/>
+as sleep envelopes me <br/>
 That I will never see <br/>
 the reflection in <br/>
 my candied eyes <br/>
