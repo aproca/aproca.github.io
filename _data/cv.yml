@@ -1,29 +1,29 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Alexandra Maria Proca
-    - name: Languages
-      value: English (fluent), Romanian (conversational), French (beginner), Spanish (beginner)
-    - name: Skills
-      value: Python, Pytorch, JAX, Java, Latex, C/C++
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Alexandra Maria Proca
+#     - name: Languages
+#       value: English, Romanian, French (beginner), Spanish (beginner)
+#     - name: Skills
+#       value: Python, Pytorch, JAX, Java, Latex, C/C++
 
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy in Computational Neuroscience and Machine Learning
-      institution: Imperial College London, London, United Kingdom
+    - title: PhD in Computational Neuroscience and Machine Learning
+      institution: Imperial College London
       year: Oct. 2023 - Present
       description:
         - Funded by Imperial College London President's PhD Scholarship
-    - title: Master of Science in Machine Learning
-      institution: University College London, London, United Kingdom
+    - title: MSc in Machine Learning
+      institution: University College London
       year: Sept. 2020 - Dec. 2021
       description:
         - Dean's List Laureate awarded to top 5% of graduating class
         - Awarded UCL Friends and Alumni Association Scholarship ($20,000)
-    - title: Bachelor of Science in Computer Science, in Neuroscience, minor in Music
-      institution: University of North Carolina at Chapel Hill, Chapel Hill, United States
+    - title: BSc in Computer Science, in Neuroscience, minor in Music
+      institution: University of North Carolina at Chapel Hill
       year: Aug. 2016 - Dec. 2020
       description:
         - Graduate with Honors in Neuroscience
@@ -34,7 +34,7 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: ETH Zurich Department of Computer Science, Zurich, Switzerland
+      institution: ETH Zurich Department of Computer Science
       year: Jan. 2022 - Jan. 2023
       description:
         - Conducting research studying the use of hypernetworks for meta-learning and continual learning in the lab of Dr. Joao Sacramento
@@ -45,20 +45,20 @@
         - Conducted research studying the partial information decomposition of multitask neural networks across varying task settings in supervised and reinforcement learning models in the lab of Dr. Jun Wang, co-supervised by Dr. Matthew Crosby and Dr. Pedro Mediano
 
     - title: Research Intern
-      institution: Massachusetts Institute of Technology Brain and Cognitive Sciences, Cambridge, United States
+      institution: Massachusetts Institute of Technology Brain and Cognitive Sciences
       year: June 2019 - Aug. 2020
       description:
         - Participated in the MIT Summer Research Program for two summers
         - Conducted research on adversarial reprogramming of recurrent neural networks across task domains (text to image classification) in the lab of Dr. Tomasso Poggio.
 
     - title: Research Assistant
-      institution: University of North Carolina at Chapel Hill Department of Mathematics, Chapel Hill, United States
+      institution: University of North Carolina at Chapel Hill Department of Mathematics
       year: May 2018 - May 2020
       description:
         - Conducted statistical research analyzing changes in neural morphology in infant fMRI data in the lab of Dr. Peter Mucha.
 
     - title: Research Assistant
-      institution: University of North Carolina at Chapel Hill Department of Psychology and Neuroscience, Chapel Hill, United States
+      institution: University of North Carolina at Chapel Hill Department of Psychology and Neuroscience
       year: Jan. 2017 - May 2020
       description:
         - Conducted behavioral research in animal models, studying HIV-1 Tat's effects on operant conditioning tasks and how endocannabinoids can be used to protect against assessed behavioral deficits in the lab of Dr. Sylvia Fitting.
