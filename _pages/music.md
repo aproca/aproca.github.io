@@ -4,7 +4,7 @@ permalink: /music/
 title: music
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 I've played piano for 18 years and performed as a singer in a local Zurich band. Below are recordings of our live performances and a photo of my lovely band, Hi Phi.

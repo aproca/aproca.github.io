@@ -7,24 +7,24 @@ importance: 3
 category: poetry
 ---
 
-do we destroy something
+do we destroy something <br/>
 by naming it?
 
-stuffing complexity
-into a sorted box
+stuffing complexity <br/>
+into a sorted box <br/>
 in search of peace.
 
-don't you know
+don't you know <br/>
 we transcend it?
 
-forcing order out
-of what knows
-no boundaries,
-we desicate
+forcing order out <br/>
+of what knows <br/>
+no boundaries, <br/>
+we desicate <br/>
 embodied art
 
-the current was not born
-to be understood.
-float on her river and let
-it bring you to wherever
+the current was not born <br/>
+to be understood. <br/>
+float on her river and let <br/>
+it bring you to wherever <br/>
 it empties

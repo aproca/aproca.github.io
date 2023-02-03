@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in the Department of Computing at Imperial College London. Broadly, my research interests span across the fields of computational neuroscience, information theory, machine learning, and consciousness science. In particular, I'm interested in developing general theories of learning, cognition, and consciousness to better understand both biological and artificial minds.
+I'm a PhD student in the Department of Computing at Imperial College London. Broadly, my research interests span the fields of computational neuroscience, information theory, machine learning, and consciousness science. In particular, I'm interested in developing general theories of learning, cognition, and consciousness to better understand both biological and artificial minds.
 
 My background is in neuroscience and machine learning. I received by bachelors degree in computer science and neuroscience (with a music minor) from the University of North Carolina at Chapel Hill and then completed a masters degree in machine learning at University College London. I've also worked as a research assistant in several labs on various topics in the fields of machine learning and neuroscience. For more information, you can view my CV.
 

@@ -7,25 +7,25 @@ importance: 1
 category: poetry
 ---
 
-i am grieving my death
-within life again.
-recurring like the tide.
+i am grieving my death <br/>
+within life again. <br/>
+recurring like the tide. <br/>
 
-incarnation is not meant
-for the dead
-but the living.
+incarnation is not meant <br/>
+for the dead <br/>
+but the living. <br/>
 
-i return to constants
-in some purgatory
-and vanish once more to be
+i return to constants <br/>
+in some purgatory <br/>
+and vanish once more to be <br/>
 reborn
 
-how many stories have i lived,
-dieties have i worshipped,
-characters have i enacted,
+how many stories have i lived, <br/>
+dieties have i worshipped, <br/>
+characters have i enacted, <br/>
 impermanent and transient as we are
 
-maybe it's a blessing
-that pain engulfs
-the absence of what is
+maybe it's a blessing <br/>
+that pain engulfs <br/>
+the absence of what is <br/>
 never again to be

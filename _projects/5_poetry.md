@@ -7,26 +7,26 @@ importance: 5
 category: poetry
 ---
 
-oh
-you believe i'm a glass petal
-balanced on your fingertip
-a thin thread rubbing
+oh <br/>
+you believe i'm a glass petal <br/>
+balanced on your fingertip <br/>
+a thin thread rubbing <br/>
 at your sharp edges
 
-are you blind when
-i pull you from jagged cliffs,
-pressing your head
-against my chest
-protecting you
+are you blind when <br/>
+i pull you from jagged cliffs, <br/>
+pressing your head <br/>
+against my chest <br/>
+protecting you <br/>
 from water's reflection?
 
-don't bear a load
-i have not asked to
-you to carry
-and pretend i am
+don't bear a load <br/>
+i have not asked to <br/>
+you to carry <br/>
+and pretend i am <br/>
 helpless
 
-to force upon me the
-responsibility of expectation
-is to deny the crutch
+to force upon me the <br/>
+responsibility of expectation <br/>
+is to deny the crutch <br/>
 i have become

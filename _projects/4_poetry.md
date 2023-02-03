@@ -7,18 +7,18 @@ importance: 4
 category: poetry
 ---
 
-the invisible thread
-i've tied to your foot
+the invisible thread <br/>
+i've tied to your foot <br/>
 only grows longer
 
-i'm speaking through what
-i know to be you,
-reading the same words,
-listening to the sounds you will,
+i'm speaking through what <br/>
+i know, <br/>
+reading the same words, <br/>
+listening to the sounds you will, <br/>
 imagining.
 
-maybe you're near
-because you wake every
-night that i sleep
-we once said i was the sun
+maybe you're near <br/>
+because you wake every <br/>
+night that i sleep <br/>
+we once said i was the sun <br/>
 and you the moon
