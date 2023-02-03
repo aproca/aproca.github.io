@@ -20,7 +20,7 @@ I've played piano for 18 years and was a singer in a local Zurich band. Below ar
 
 <a href='https://drive.google.com/file/d/1nEHh97I_6i-IhXay-hxe-NCrW2q2Ie2d/view?usp=share_link'>Our full performance recording.</a>
 
-<!-- Spooky by Dusty Springfield
+Spooky by Dusty Springfield
 {% include embed-audio.html src="/assets/audio/spooky.mp3" %}
 
 Crazy by Gnarls Barkley
@@ -33,7 +33,7 @@ The Girl from Ipanema by Frank Sinatra
 {% include embed-audio.html src="/assets/audio/girlfromipanema.mp3" %}
 
 This Love by Maroon 5
-{% include embed-audio.html src="/assets/audio/thislove.mp3" %} -->
+{% include embed-audio.html src="/assets/audio/thislove.mp3" %}
 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OLcH1IWrdrQ" frameborder="0" allowfullscreen></iframe>
