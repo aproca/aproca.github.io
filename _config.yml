@@ -40,7 +40,7 @@ repo_theme_dark: calm #dark           # https://github.com/anuraghazra/github-re
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false # true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -118,6 +118,10 @@ blog_nav_title: blog # your blog must have a title for it to be displayed in the
 blog_description: # both academic and fun content # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
+talks_name: talks
+talks_nav_title: talks
+
+
 # Pagination
 pagination:
   enabled: true
@@ -162,6 +166,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  talks:
+    output: true 
+    permalink: /talks/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
