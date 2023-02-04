@@ -22,7 +22,7 @@ I'm a PhD student in the Department of Computing at Imperial College London. Bro
 
 Before attending Imperial, I received by bachelors degree in computer science and neuroscience (with a music minor) from the University of North Carolina at Chapel Hill and then completed a masters degree in machine learning at University College London. During that time, I worked as a research assistant in several labs on various topics in the fields of machine learning and neuroscience. I also help organize <a href='https://qualiaheads.github.io/blog/'>Qualiaheads</a>, a club of graduate students studying the current state of research in consciousness science.
 
-Outside of research, I enjoy marathon running, playing music, and writing. I've been playing piano for 18 years and while I lived in Zurich, I was a singer in a local band. I occassionally write poetry and (less frequently) share it.
+Outside of research, I love anything outdoors (marathon running, hiking, skiing, traveling, etc.). I also enjoy playing music and writing. I've been playing piano for 18 years and while I lived in Zurich, I was a singer in a local band. I occassionally write poetry and (less frequently) share it.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
