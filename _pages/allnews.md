@@ -1,6 +1,7 @@
 ---
+layout: page
 title: news
-layout: textlay
+# layout: textlay
 # excerpt: news archive
 # sitemap: false
 permalink: /news/
