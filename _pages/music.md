@@ -20,7 +20,7 @@ I've played piano for 18 years and was a singer in a local Zurich band. Below ar
 
 ### December 2nd Show at Netzwerkbar in Zurich
 
-Our full performance recording can be found <a href='https://drive.google.com/file/d/1nEHh97I_6i-IhXay-hxe-NCrW2q2Ie2d/view?usp=share_link'>here</a>, below are some song clips. 
+Our full performance recording can be found <a href='https://drive.google.com/file/d/1nEHh97I_6i-IhXay-hxe-NCrW2q2Ie2d/view?usp=share_link'>here</a>, below are some audio clips. 
 
 
 Crazy by Gnarls Barkley

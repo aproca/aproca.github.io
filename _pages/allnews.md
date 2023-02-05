@@ -1,8 +1,8 @@
 ---
 title: news
 layout: textlay
-excerpt: news archive
-sitemap: false
+# excerpt: news archive
+# sitemap: false
 permalink: /news/
 nav: false
 ---
