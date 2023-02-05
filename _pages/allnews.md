@@ -5,7 +5,7 @@ title: news
 # excerpt: news archive
 # sitemap: false
 permalink: /news/
-nav: false
+nav: true #false
 ---
 
 news archive
