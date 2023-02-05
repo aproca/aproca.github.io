@@ -22,32 +22,26 @@ I've played piano for 18 years and was a singer in a local Zurich band. Below ar
 
 <a href='https://drive.google.com/file/d/1nEHh97I_6i-IhXay-hxe-NCrW2q2Ie2d/view?usp=share_link'>Our full performance recording.</a>
 
-<br/>
 
 Some song clips
-<!-- Spooky by Dusty Springfield
-{% include embed-audio.html src="/assets/audio/spooky.mp3" %} -->
-
+<br/>
 Crazy by Gnarls Barkley
 {% include embed-audio.html src="/assets/audio/crazy.mp3" %}
-<br/>
 <br/>
 
 You Know I'm No Good by Amy Winehouse
 {% include embed-audio.html src="/assets/audio/imnogood.mp3" %}
 <br/>
-<br/>
 
 The Girl from Ipanema by Frank Sinatra
 {% include embed-audio.html src="/assets/audio/girlfromipanema.mp3" %}
-<br/>
 <br/>
 
 This Love by Maroon 5
 {% include embed-audio.html src="/assets/audio/thislove.mp3" %}
 <br/>
 
-### May 7th Show at Das Kulturfestival at University of Zurich
+### May 7th Show at Das Kulturfestival in Zurich
 
 I Want to Break Free by Queen
 <iframe src="https://drive.google.com/file/d/1XIr8MXF7wYhDgJaktMDVze0pYmi4gDgQ/preview" width="640" height="480" allow="autoplay"></iframe>

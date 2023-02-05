@@ -113,13 +113,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: contents # al-folio # blog_name will be displayed in your blog page
+blog_name: # contents # al-folio # blog_name will be displayed in your blog page
 blog_nav_title: contents # your blog must have a title for it to be displayed in the nav bar
 blog_description: # both academic and fun content # a simple whitespace theme for academics
 permalink: /contents/:year/:title/
 
 talks_name: talks
 talks_nav_title: talks
+permalink: /talks/:year/:title/
 
 
 # Pagination
@@ -171,7 +172,7 @@ collections:
     permalink: /talks/:path/
 
 news_scrollable: false #true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 10 # leave blank to include all the news in the `_news` folder
+news_limit: 5 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
