@@ -1,0 +1,10 @@
+---
+title: "news"
+layout: textlay
+excerpt: "news archive"
+sitemap: false
+permalink: /news/
+nav: false
+---
+
+{% include allnews.html %}
