@@ -11,4 +11,4 @@ news_limit: 100
 ---
 
 news archive
-{%- include news.html %}
+{%- include allnews.html %}
