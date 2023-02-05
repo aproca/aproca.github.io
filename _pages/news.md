@@ -10,5 +10,5 @@ exclude: true
 news_limit: 100
 ---
 
-news archive
+
 {%- include allnews.html %}
