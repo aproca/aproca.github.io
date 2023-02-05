@@ -7,4 +7,5 @@ permalink: /news/
 nav: false
 ---
 
+news archive
 {% include allnews.html %}
