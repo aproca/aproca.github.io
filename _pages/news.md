@@ -1,12 +1,14 @@
 ---
 layout: page
-title: news
+title: news archive
 # layout: textlay
 # excerpt: news archive
 # sitemap: false
 permalink: /news/
-nav: true #false
+nav: true
+exclude: true
+news_limit: 100
 ---
 
 news archive
-{% include allnews.html %}
+{%- include news.html %}
