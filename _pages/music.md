@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I've played piano for 18 years and was a singer in a local Zurich band. Below are recordings of some performances and a photo of my lovely band, Hi Phi.
+I've played piano for 18 years and was a singer in a local Zürich band. Below are recordings of some performances and a photo of my lovely band, Hi Phi.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,7 +18,7 @@ I've played piano for 18 years and was a singer in a local Zurich band. Below ar
     Hi Phi. Back row: Linus (sax), Hector (guitar); middle row: Lioba (bass), me (vocals); front row: Enrique (guitar), Yassine (keyboard), Dimi (drums)
 </div>
 
-### December 2nd Show at Netzwerkbar in Zurich
+### December 2nd Show at Netzwerkbar in Zürich
 
 Our full performance recording can be found <a href='https://drive.google.com/file/d/1nEHh97I_6i-IhXay-hxe-NCrW2q2Ie2d/view?usp=share_link'>here</a>, below are some audio clips. 
 
@@ -39,7 +39,7 @@ This Love by Maroon 5
 {% include embed-audio.html src="/assets/audio/thislove.mp3" %}
 <br/>
 
-### May 7th Show at Das Kulturfestival in Zurich
+### May 7th Show at Das Kulturfestival in Zürich
 
 I Want to Break Free by Queen
 <iframe src="https://drive.google.com/file/d/1XIr8MXF7wYhDgJaktMDVze0pYmi4gDgQ/preview" width="640" height="480" allow="autoplay"></iframe>

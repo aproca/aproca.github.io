@@ -34,10 +34,10 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: ETH Zurich Department of Computer Science
+      institution: ETH Zürich Department of Computer Science
       year: Jan. 2022 - Jan. 2023
       description:
-        - Lab of Dr. Joao Sacramento
+        - Lab of Dr. João Sacramento
         - Studied the use of hypernetworks for meta-learning and continual learning
 
     - title: Master's Student
