@@ -2,7 +2,7 @@
 layout: post
 title:  Linking generalizable intelligence to consciousness via information synergy
 date:   2022-08-03 16:40:16
-description: AMCS Modelling Consciousness Workshop
+description: Talk given at AMCS Modelling Consciousness Workshop
 tags: AI, intelligence, consciousness, PID
 categories: talks
 ---
