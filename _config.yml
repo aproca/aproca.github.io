@@ -120,7 +120,7 @@ permalink: /blog/:year/:title/
 
 talks_name: talks
 talks_nav_title: talks
-permalink: /talks/:year/:title/
+# permalink: /talks/:year/:title/
 
 
 # Pagination
