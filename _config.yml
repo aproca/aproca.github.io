@@ -167,9 +167,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  # talks:
-  #   output: true 
-  #   permalink: /talks/:path/
+  talks:
+    output: true 
+    permalink: /talks/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
 
 news_scrollable: false #true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
