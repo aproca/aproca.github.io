@@ -1,14 +1,30 @@
 ---
 layout: post
-title:  Qualiaheads Q&A with Anil Seth on Being You
-date:   2022-05-10 16:40:16
-description: 
-tags: consciousness, qna
-categories: posts
+title:  a post with formatting and links
+date:   2015-03-15 16:40:16
+description: march & april, looking forward to summer
+tags: formatting links
+categories: sample-posts
 ---
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-After reading <a href='https://www.penguinrandomhouse.com/books/566315/being-you-by-anil-seth/'>Being You: A New Science of Consciousness</a> by <a href='https://www.anilseth.com/'>Anil Seth</a>, <a href='https://qualiaheads.github.io/blog/'>Qualiaheads</a> hosted a Q&A, spanning topics of consciousness, the Real Problem, predictive processing, and more.
+#### Hipster list
+<ul>
+    <li>brunch</li>
+    <li>fixie</li>
+    <li>raybans</li>
+    <li>messenger bag</li>
+</ul>
 
-Anil Seth is a neuroscientist and co-director of the Sackler Centre for Consciousness Science at the University of Sussex, studying the biological basis of consciousness. Read his book and check out his 2017 <a href='https://www.ted.com/talks/anil_seth_your_brain_hallucinates_your_conscious_reality?language=en'>TED talk</a> on consciousness-- one of TED's most popular science talks!
+Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
-<iframe src="https://drive.google.com/file/d/1Dvbk5zCKa8cToZnJ8IuXGRFu7xrH_nGH/preview" width="640" height="480" allow="autoplay"></iframe>
+<hr>
+
+Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+
+<blockquote>
+    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+    —Anais Nin
+</blockquote>
+
+Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
