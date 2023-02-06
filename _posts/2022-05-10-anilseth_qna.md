@@ -3,8 +3,8 @@ layout: post
 title:  Qualiaheads Q&A with Anil Seth on Being You
 date:   2022-05-10 16:40:16
 description: 
-tags: consciousness, qna
-categories: talks
+tags: consciousness
+categories: Q&A
 ---
 
 After reading <a href='https://www.penguinrandomhouse.com/books/566315/being-you-by-anil-seth/'>Being You: A New Science of Consciousness</a> by <a href='https://www.anilseth.com/'>Anil Seth</a>, <a href='https://qualiaheads.github.io/blog/'>Qualiaheads</a> hosted a Q&A, spanning topics of consciousness, the Real Problem, predictive processing, and more.

@@ -3,7 +3,7 @@ layout: post
 title:  Qualiaheads Q&A with Pedro Mediano
 date:   2022-06-30 16:40:16
 description: 
-tags: consciousness, qna, PID, IIT
+tags: consciousness PID IIT
 categories: talks
 ---
 
