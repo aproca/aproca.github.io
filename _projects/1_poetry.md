@@ -9,11 +9,11 @@ category: poetry
 
 I am grieving my death <br/>
 within life again. <br/>
-Recurring like the tide. <br/>
+Recurring like the tide. 
 
 Reincarnation is not meant <br/>
 for the dead <br/>
-but the living. <br/>
+but the living. 
 
 I return to constants <br/>
 in some purgatory <br/>

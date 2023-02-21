@@ -35,7 +35,7 @@ and its distance. <br/>
 
 Life's fingers stretch <br/>
 so far. <br/>
-It haunts me. <br/>
+It haunts me.
 
 Hello, hi. <br/>
 I only hear echoes. <br/>

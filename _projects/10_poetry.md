@@ -10,7 +10,7 @@ category: poetry
 When the moment of acceptance <br/>
 appears and <br/>
 you, <br/>
-thrashing chained stallion, <br/>
+chained, thrashing stallion, <br/>
 renounce to fate <br/>
 to swallow you whole, <br/>
 a gaping cavity shall open <br/>

@@ -167,9 +167,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  travel:
-    output: true 
-    permalinl: /travel/:path/
+  # travel:
+  #   output: true 
+  #   permalinl: /travel/:path/
   # talks:
   #   output: true 
   #   permalink: /talks/:path/

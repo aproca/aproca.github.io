@@ -21,9 +21,9 @@ protecting you <br/>
 from water's reflection?
 
 Don't bear a load <br/>
-I have not asked to <br/>
+I have not asked <br/>
 you to carry <br/>
-and pretend I am <br/>
+and pretend I lay here, <br/>
 helpless.
 
 To force upon me the <br/>
