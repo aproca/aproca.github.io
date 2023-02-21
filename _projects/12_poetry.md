@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: mere
+title: mere
+description: 
 img:
 importance: 12
 category: poetry
