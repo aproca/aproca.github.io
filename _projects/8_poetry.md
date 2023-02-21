@@ -9,10 +9,10 @@ category: poetry
 
 The quick flash of pearls <br/>
 as you curl your lips <br/>
-blinds me <br/>
+blinds me. <br/>
 How lovely a sight <br/>
 to witness joy <br/>
-come alive in your eyes <br/>
+come alive in your eyes. <br/>
 Each angle, shade, expression <br/>
 of your living self <br/>
 is my peace <br/>
@@ -30,10 +30,10 @@ with tender kisses?
 I grieve at the thought <br/>
 that I may never have the luxury <br/>
 of hearing the slowing of my breath <br/>
-as sleep envelopes me <br/>
+as sleep envelopes me. <br/>
 That I will never see <br/>
 the reflection in <br/>
-my candied eyes <br/>
+my candied eyes. <br/>
 That I will never smell <br/>
 my own scent <br/>
 or give witness to the way <br/>
@@ -47,4 +47,4 @@ of the physical manifestations <br/>
 matching the universe within me. <br/>
 How well can I know myself <br/>
 if I am but <br/>
-omniscient and ignorant
+omniscient and ignorant.
