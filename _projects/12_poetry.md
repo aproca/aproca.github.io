@@ -3,7 +3,7 @@ layout: page
 title: mere
 description: 
 img:
-importance: 12
+importance: 5
 category: poetry
 ---
 
