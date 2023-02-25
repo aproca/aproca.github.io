@@ -12,7 +12,7 @@ I'm feeling wistful, <br/>
 as one does.
 
 Life is strange and wonderful <br/>
-and terrifying. <br/>
+and terrifying.
 
 Hello from out here. <br/>
 Is solitude <br/>
@@ -21,7 +21,7 @@ or freedom?
 
 I'm always making choices. <br/>
 I'm a product <br/>
-of choices. <br/>
+of choices. 
 
 Which is all to say <br/>
 I'm a product of <br/>
@@ -31,7 +31,7 @@ going to become.
 Isn't change strange? <br/>
 She's always reminding me <br/>
 what was <br/>
-and its distance. <br/>
+and its distance. 
 
 Life's fingers stretch <br/>
 so far. <br/>

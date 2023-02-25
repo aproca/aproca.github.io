@@ -25,6 +25,8 @@ embodied art.
 
 The current was not born <br/>
 to be understood. <br/>
-Float on and let <br/>
-her bring you to wherever <br/>
+Float on the <br/>
+river of uncertainty <br/>
+and let her bring you <br/>
+to wherever <br/>
 she empties.
