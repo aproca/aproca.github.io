@@ -11,8 +11,8 @@ Hello from another world. <br/>
 I'm feeling wistful, <br/>
 as one does.
 
-Life is strange and wonderful <br/>
-and terrifying.
+Life can be described <br/>
+by too many adjectives.
 
 Hello from out here. <br/>
 Is solitude <br/>

@@ -15,7 +15,7 @@ I've played piano for 18 years and was a singer in a local Zürich band. Below a
     </div>
 </div>
 <div class="caption">
-    Hi Phi. Back row: Linus (sax), Hector (guitar); middle row: Lioba (bass), me (vocals); front row: Enrique (guitar), Yassine (keyboard), Dimi (drums)
+    Hi Phi. Back row: Linus (sax), Hector (guitar); middle row: Lioba (bass), me (vocals); front row: Enrique (guitar), Yassine (keys), Dimi (drums)
 </div>
 
 ### December 2nd Show at Netzwerkbar in Zürich

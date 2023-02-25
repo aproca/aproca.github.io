@@ -18,7 +18,7 @@ when I didn't sprout. <br/>
 You set frost upon me <br/>
 and told me to grow faster.
 
-The other flowers you tended to <br/>
+The other flowers you cared for <br/>
 bloomed tall and wide <br/>
 but I stayed small <br/>
 and you wondered why. <br/>
@@ -28,10 +28,10 @@ but what could I do. <br/>
 You pointed to them <br/>
 and said why isn't it you.
 
-The distance oh the distance! <br/>
+The distance the distance. <br/>
 You uprooted me and fled <br/>
-and all I wanted <br/>
-was to be fed.
+and all I ever wanted <br/>
+was just to be fed.
 
 <!-- The distance oh the distance. <br/>
 You pushed me away <br/>
