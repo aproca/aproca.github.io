@@ -12,7 +12,8 @@ and tore out everything <br/>
 I could hold in my hand, <br/>
 sealed it <br/>
 in a locket and <br/>
-buried it in the yard. <br/>
+hid it under <br/>
+the cherry tree. <br/>
 Please keep her safe, <br/>
 I whispered <br/>
 to the earth, my mother. <br/>
