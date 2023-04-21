@@ -7,54 +7,54 @@ importance: 15
 category: poetry
 ---
 
-Embarking to greater unknowns,
-I traverse miles of pavement and dirt,
-hours of resigned patience,
-with still the same feet.
-Surroundings and perceivers,
-eclose from a chrysalis,
-yet static and steadfast
-remains their center.
-Only my face reveals
-an alien
-in other worlds.
+Embarking to greater unknowns, <br/>
+I traverse miles of pavement and dirt, <br/>
+hours of resigned patience, <br/>
+with still the same feet. <br/>
+Surroundings and perceivers, <br/>
+eclose from a chrysalis, <br/>
+yet static and steadfast <br/>
+remains their center. <br/>
+Only my face reveals <br/>
+an alien <br/>
+in other worlds. 
 
-Dreams have better homes
-at the horizon of possibility.
-Most never venture 
-so far to discover
-a mirage that will never quench
+Dreams have better homes <br/>
+at the horizon of possibility. <br/>
+Most never venture <br/>
+so far to discover <br/>
+a mirage that will never quench <br/>
 dying thirst.
 
-My identity is
-that of the masses and
-obligation cannot find me.
-Goodbye, heart of hearts,
-soul of souls,
-objects of desire!
-My gait is relieved
-of yearning that will
+My identity is <br/>
+that of the masses and <br/>
+obligation cannot find me. <br/>
+Goodbye, heart of hearts, <br/>
+soul of souls, <br/>
+objects of desire! <br/>
+My gait is relieved <br/>
+of yearning that will <br/>
 cripple it no longer.
 
-Still, I despise the platitudes
-loneliness forces upon me.
-I remember that
-absence cried loudest.
-But I tire of searching for home
-and finding the door bolted,
+Still, I despise the platitudes <br/>
+loneliness forces upon me. <br/>
+I remember that <br/>
+absence cried loudest. <br/>
+But I tire of searching for home <br/>
+and finding the door bolted, <br/>
 or the walls made from cards.
 
-Nothing to run from,
-to run to,
+Nothing to run from, <br/>
+to run to, <br/>
 where do you go?
 
-The child knows.
-But her wisdom falters
-in the hands of the enlightened man.
-Must he throw himself
-into the futile,
+The child knows. <br/>
+But her wisdom falters <br/>
+in the hands of the enlightened man. <br/>
+Must he throw himself <br/>
+into the futile, <br/>
 or else float in an abyss?
 
-Fantasy,
-return to the horizon
+Fantasy, <br/>
+return to the horizon <br/>
 and birth the child in me.
