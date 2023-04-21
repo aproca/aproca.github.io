@@ -1,41 +1,60 @@
 ---
 layout: page
-title: the last time
+title: wander
 description: 
 img:
 importance: 15
 category: poetry
 ---
 
-Screaming, I reached in <br/>
-and tore out everything <br/>
-I could hold in my hand, <br/>
-sealed it <br/>
-in a locket and <br/>
-hid it under <br/>
-the cherry tree. <br/>
-Please keep her safe, <br/>
-I whispered <br/>
-to the earth, my mother. <br/>
-No flesh can linger <br/>
-with you her guardian. <br/>
-The veil of nightfall <br/>
-carried me away.
+Embarking to greater unknowns,
+I traverse miles of pavement and dirt,
+hours of resigned patience,
+with still the same feet.
+Surroundings and perceivers,
+eclose from a chrysalis,
+yet static and steadfast
+remains their center.
+Only my face reveals
+an alien
+in other worlds.
 
-So I trudged along, <br/>
-no blade to pierce me, <br/>
-no feather to tickle. <br/>
-To be numb is <br/>
-to be protected.
+Dreams have better homes
+at the horizon of possibility.
+Most never venture 
+so far to discover
+a mirage that will never quench
+dying thirst.
 
-With kind eyes and <br/>
-soft hands, <br/>
-you asked to wear it. <br/>
-I stole from my own grave.
+My identity is
+that of the masses and
+obligation cannot find me.
+Goodbye, heart of hearts,
+soul of souls,
+objects of desire!
+My gait is relieved
+of yearning that will
+cripple it no longer.
 
-Now you crush my locket <br/>
-with your heel <br/>
-and I return to bury <br/>
-what remains.
+Still, I despise the platitudes
+loneliness forces upon me.
+I remember that
+absence cried loudest.
+But I tire of searching for home
+and finding the door bolted,
+or the walls made from cards.
 
+Nothing to run from,
+to run to,
+where do you go?
 
+The child knows.
+But her wisdom falters
+in the hands of the enlightened man.
+Must he throw himself
+into the futile,
+or else float in an abyss?
+
+Fantasy,
+return to the horizon
+and birth the child in me.
