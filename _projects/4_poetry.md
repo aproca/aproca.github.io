@@ -11,11 +11,17 @@ The invisible thread <br/>
 I've tied to your foot <br/>
 only grows longer.
 
-I'm speaking through what <br/>
+I’m reading the same words you once did. <br/>
+I still listen to your songs <br/>
+and take the right side of the bed. <br/>
+I don’t know who your heart beat for last <br/>
+Or what’s floating in your head.
+
+<!-- I'm speaking through what <br/>
 I know, <br/>
 reading the same words, <br/>
 listening to the sounds you will, <br/>
-imagining.
+imagining. -->
 
 Maybe you're near <br/>
 because you wake every <br/>

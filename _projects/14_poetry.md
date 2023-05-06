@@ -20,8 +20,6 @@ for the first time.
 With a tendency to forget, <br/>
 reminders never fail <br/>
 to follow me. <br/>
-I fight, I resist, I deny. <br/>
-Futile. <br/>
 Marching in tempo, <br/>
 splitting path forward, <br/>
 the ropes of time grip my ankles. <br/>
