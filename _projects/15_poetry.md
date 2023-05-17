@@ -1,6 +1,6 @@
 ---
 layout: page
-title: wander
+title: freedom
 description: 
 img:
 importance: 15
