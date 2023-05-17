@@ -7,24 +7,24 @@ importance: 21
 category: poetry
 ---
 
-With rubbered cherry heads,
-the roosters sound morning's arrival,
-chasing each other under
+With rubbered cherry heads, <br/>
+the roosters sound morning's arrival, <br/>
+chasing each other under <br/>
 verdant shrubbery on stilts.
 
-The mind summersaults and
-stretches itself like putty.
-In and out I breath,
-reliquinshing it to form
+The mind summersaults and <br/>
+stretches itself like putty. <br/>
+In and out I breath, <br/>
+reliquinshing it to form <br/>
 a kaleidoscope of color and silence.
 
-A sudden burst of rain bats down on the roofs
-and the children run and dance and ride bicycles,
-screaming in the sound of innocence,
-throwing off their orange garments to
+A sudden burst of rain bats down on the roofs <br/>
+and the children run and dance and ride bicycles, <br/>
+screaming in the sound of innocence, <br/>
+throwing off their orange garments to <br/>
 receive the sky's kisses.
 
-I sit still as the patient observer.
-I am told this is where suffering ends and I know it.
-But would it be so crass to say
+I sit still as the patient observer. <br/>
+I am told this is where suffering ends and I know it. <br/>
+But would it be so crass to say <br/>
 such a life bores me?

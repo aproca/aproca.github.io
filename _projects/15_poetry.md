@@ -46,7 +46,7 @@ or the walls made from cards.
 
 Nothing to run from, <br/>
 to run to, <br/>
-where do you go?
+where does one go?
 
 The child knows. <br/>
 But her wisdom falters <br/>
