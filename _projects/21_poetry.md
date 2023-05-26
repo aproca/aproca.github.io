@@ -25,6 +25,5 @@ throwing off their orange garments to <br/>
 receive the sky's kisses.
 
 I sit still as the patient observer. <br/>
-I am told this is where suffering ends and I know it. <br/>
-But would it be so crass to say <br/>
-such a life bores me?
+I am told this is where suffering ends <br/>
+and I know it.
