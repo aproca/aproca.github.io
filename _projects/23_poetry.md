@@ -17,4 +17,4 @@ In the dimness of dusk, our palms <br/>
 fill with the glow of fireflies.
 
 Solace shields us <br/>
-from what shall come.
+time to come.

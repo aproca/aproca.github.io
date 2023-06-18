@@ -3,7 +3,7 @@ layout: page
 title: homecoming
 description: 
 img:
-importance: 23
+importance: 24
 category: poetry
 ---
 
@@ -28,9 +28,9 @@ knowing your constance, <br/>
 a room in my mind <br/>
 I take shelter.
 
-Return me, return you. <br/>
+<!-- Return me, return you. <br/>
 Hearts parting to relish <br/>
 in all that's not lost.
 
 Leave, <br/>
-but only if you come back.
+but only if you come back. -->
