@@ -25,7 +25,7 @@ dieties have I worshipped, <br/>
 characters have I become, <br/>
 impermanent and transient as we are.
 
-Maybe it's a blessing <br/>
+<!-- Maybe it's a blessing <br/>
 that pain engulfs <br/>
 the absence of what is <br/>
-never again to be.
+never again to be. -->

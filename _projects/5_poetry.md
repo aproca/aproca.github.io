@@ -20,7 +20,7 @@ against my chest, <br/>
 protecting you <br/>
 from water's reflection?
 
-Don't bear a load <br/>
+<!-- Don't bear a load <br/>
 I have not asked <br/>
 you to carry <br/>
 and pretend I lay here, <br/>
@@ -29,4 +29,4 @@ helpless.
 To force upon me the <br/>
 responsibility of expectation <br/>
 is to deny the crutch <br/>
-I have become.
+I have become. -->

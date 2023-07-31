@@ -18,11 +18,11 @@ To drench my body <br/>
 in every taste, every touch, <br/>
 every searing pain and blissful ecstasy. <br/>
 I take it all, a hedon and a martyr. <br/>
-I want nothing less than everything <br/>
+<!-- I want nothing less than everything <br/>
 an infinity of experience has <br/>
-to offer.
+to offer. -->
 
-I am a force and a fire. <br/>
+<!-- I am a force and a fire. <br/> -->
 I have all my love, my lust, my passion, <br/>
 and my freedom to give, <br/>
 all of it to take. <br/>

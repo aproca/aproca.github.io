@@ -40,11 +40,11 @@ or give witness to the way <br/>
 light reflects from my face. <br/>
 I am an open book <br/>
 whose pages <br/>
-I do not get to read. <br/>
-I have been sentenced <br/>
+I do not get to read. 
+<!-- I have been sentenced <br/>
 to eternal blindness <br/>
 of the physical manifestations <br/>
 matching the universe within me. <br/>
 How well can I know myself <br/>
 if I am but <br/>
-omniscient and ignorant.
+omniscient and ignorant. -->

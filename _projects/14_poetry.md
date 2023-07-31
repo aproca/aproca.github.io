@@ -19,7 +19,7 @@ for the first time.
 
 With a tendency to forget, <br/>
 reminders never fail <br/>
-to follow me. <br/>
+to follow. <br/>
 Marching in tempo, <br/>
 splitting path forward, <br/>
 the ropes of time grip my ankles. <br/>
