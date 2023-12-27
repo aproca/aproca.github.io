@@ -1,19 +1,51 @@
 "Rosas":
   - firstname: ["Fernando", "Fernando E."]
-    url: https://scholar.google.com/citations?user=OZNAs2wAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=OZNAs2wAAAAJ&hl
 
 "Luppi":
   - firstname: ["Andrea", "Andrea I."]
-    url: https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl
 
 "Bor":
   - firstname: ["Daniel"]
-    url: https://scholar.google.com/citations?user=RFyNGg0AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=RFyNGg0AAAAJ&hl
 
 "Crosby": 
   - firstname: ["Matthew"]
-    url: https://scholar.google.com/citations?user=TjfMUmkAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=TjfMUmkAAAAJ&hl
 
 "Mediano":
   - firstname: ["Pedro", "Pedro A. M.", "Pedro A.M."]
     url: https://scholar.google.co.uk/citations?hl=en&user=I9-416MAAAAJ&view_op=list_works&sortby=pubdate
+
+"Schug":
+  - firstname: ["Simon"]
+    url: https://scholar.google.com/citations?user=T-ZAeg0AAAAJ&hl
+
+"Kobayashi":
+  - firstname: ["Seijin"]
+    url: https://scholar.google.com/citations?user=YS21tBAAAAAJ&hl
+
+"Akram":
+  - firstname: ["Yassir"]
+    url: https://www.researchgate.net/profile/Yassir_Akram2 
+
+"Wołczyk":
+  - firstname: ["Maciej"]
+    url: https://scholar.google.com/citations?user=f6Xi7aoAAAAJ&hl
+
+"von Oswald":
+  - firstname: ["Johannes"]
+    url: https://scholar.google.com/citations?user=jdnL-PgAAAAJ&hl
+
+"Pascanu":
+  - firstname: ["Razvan"]
+    url: https://scholar.google.ca/citations?user=eSPY8LwAAAAJ&hl 
+
+"Sacramento":
+  - firstname: ["Joao", "João"]
+    url: https://scholar.google.com/citations?user=9hpcmYUAAAAJ 
+
+"Steger":
+  - firstname: ["Angelika"]
+    url: https://scholar.google.com/citations?user=Kzeoyq8AAAAJ
