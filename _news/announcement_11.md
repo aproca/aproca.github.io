@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: post
-date: 2024-2-29 15:59:00-0400
+date: 2024-1-18 15:59:00-0400
 inline: true
 ---
 
-I'm presenting a poster at COSYNE 2024 on context emergence in gated linear networks. -->
+I'll be presenting at COSYNE our work on inferring context in gated linear networks.
