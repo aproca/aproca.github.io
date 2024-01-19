@@ -34,8 +34,8 @@
   - firstname: ["Maciej"]
     url: https://scholar.google.com/citations?user=f6Xi7aoAAAAJ&hl
 
-"von Oswald":
-  - firstname: ["Johannes"]
+"Oswald":
+  - firstname: ["Johannes von", "Johannes"]
     url: https://scholar.google.com/citations?user=jdnL-PgAAAAJ&hl
 
 "Pascanu":
