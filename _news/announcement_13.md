@@ -4,4 +4,4 @@ date: 2024-6-8 15:59:00-0400
 inline: true
 ---
 
-I'm giving a talk on context abstractions in linear networks at the <a href='https://indico.ictp.it/event/10481/overview'>Neuro Theory Workshop</a> in Trieste, Italy
+I'm giving a talk on context abstractions in linear networks at the <a href='https://indico.ictp.it/event/10481/overview'>ICTP Workshop</a> in Trieste, Italy

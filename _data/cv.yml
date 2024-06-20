@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computational Neuroscience and Machine Learning
+    - title: PhD in Theoretical Neuroscience and Machine Learning
       institution: Imperial College London
       year: Oct. 2023 - Present
       description:
@@ -82,6 +82,9 @@
 - title: Training and Workshops
   type: time_table
   contents:
+    - title: 2024 ICTP Junior Scientists Workshop in Thoeretical Neuroscience
+      institution: Trieste, Italy
+      year: June 2024
     - title: 2023 Analytical Connectionism Course at Gatsby Computational Neuroscience Unit
       institution: London, United Kingdom
       year: Aug. 2023
