@@ -30,7 +30,7 @@
         - Honors Carolina Laureate
         - Carolina Research Scholar
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Research Assistant
@@ -78,6 +78,27 @@
       description:
         - Lab of Dr. Sylvia Fitting
         - Conducted behavioral research in animal models, studying HIV-1 Tat's effects on operant conditioning tasks and how endocannabinoids can be used to protect against assessed behavioral deficits
+
+- title: Teaching
+  type: time_table
+  contents: 
+    - title: Graduate Teaching Assistant
+      institution: Computational Neurodynamics
+      year: Fall 2024
+    - title: Undergraduate Teaching Assistant
+      institution: Introduction to Research in Network Data Science
+      year: Spring 2019
+
+# - title: Supervision
+#   type: time_table
+#   contents:
+#     - title: Pratyaksh Sharma
+#       institution: MEng Computing thesis on Analyzing the computational role of complex representations in RNNs
+#       year: 2024
+#     - title: Nicolas Anguita
+#       institution: MEng Joint Maths and Computing thesis on Learning dynamics of linear neural networks
+#       year: 2023
+
 
 - title: Training and Workshops
   type: time_table

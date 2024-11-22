@@ -31,7 +31,7 @@ You Know I'm No Good by Amy Winehouse
 {% include embed-audio.html src="/assets/audio/imnogood.mp3" %}
 <br/>
 
-The Girl from Ipanema by Frank Sinatra
+The Girl from Ipanema
 {% include embed-audio.html src="/assets/audio/girlfromipanema.mp3" %}
 <br/>
 
