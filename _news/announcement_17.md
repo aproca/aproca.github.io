@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-10-11 15:59:00-0400
+date: 2025-1-11 15:59:00-0400
 inline: true
 ---
 
-Our <a href='https://arxiv.org/abs/2409.14623'>paper</a> on rich and lazy learning was accepted at the NeurIPs UniReps Workshop.
+Our <a href='https://openreview.net/forum?id=ZXaocmXc6d'>paper</a> on learning dynamics and rich and lazy learning was accepted to ICLR 2025.
