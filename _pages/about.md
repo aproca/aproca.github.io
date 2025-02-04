@@ -29,7 +29,7 @@ I'm a PhD student and a President's scholar in the Department of Computing at Im
 
 Before attending Imperial, I received my bachelors degree in computer science and neuroscience (with a music minor) from the University of North Carolina at Chapel Hill and then completed a masters degree in machine learning at University College London. During my degrees, I worked as a research assistant in several labs on various topics in the fields of machine learning and neuroscience. After finishing my masters, I worked as a research assistant in the Department of Computer Science at ETH Zürich with <a href='https://www.joaosacramento.com/'>João Sacramento</a>, studying the use of hypernetworks for meta-learning. For more information, you can view my CV.
 
-I really enjoy discussing and engaging with science and philosophy with other people. I currently help organize <a href='https://qualiaheads.github.io/blog/'>Qualiaheads</a>, a club of graduate students studying the state of research in consciousness science.
+I really enjoy discussing and engaging with science and philosophy with other people. I currently am involved with a journal club focusing on mechanistic interpretability at Imperial. Previously in Zurich, I helped organize <a href='https://qualiaheads.github.io/blog/'>Qualiaheads</a>, a club of graduate students studying the state of research in consciousness science.
 
 Outside of research, I love anything outdoors (marathon running, hiking, skiing, etc.). I also enjoy playing music and writing. I've been playing piano for 18 years and while I lived in Zürich, I was a singer in a local band. I occassionally write poetry and (less frequently) share it.
 
