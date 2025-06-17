@@ -4,4 +4,4 @@ date: 2025-3-11 15:59:00-0400
 inline: true
 ---
 
-I'll be giving a talk at a COSYNE workshop on perturbation based approaches to uncovering neural dynamics.
+I'll be giving a talk at a COSYNE workshop on neural dynamics.
