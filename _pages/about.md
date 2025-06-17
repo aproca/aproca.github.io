@@ -33,7 +33,7 @@ Before attending Imperial, I received my bachelors degree in computer science an
 
 I really enjoy discussing and engaging with science and philosophy with other people. I'm currently involved with a journal club focusing on mechanistic interpretability at Imperial. Previously in Zurich, I helped organize <a href='https://qualiaheads.github.io/blog/'>Qualiaheads</a>, a club of graduate students studying the state of research in consciousness science.
 
-Outside of research, I love anything outdoors (marathon running, hiking, skiing, etc.). To date, I've ran 5 marathons with a PR of 3:23 (including Boston marathon), and have a half marathon PR of 1:34. I also enjoy playing music and writing. I've been playing piano for 18 years and while I lived in Zürich, I was a singer in a local band. I occassionally write poetry and (less frequently) share it.
+Outside of research, I love anything outdoors (marathon running, hiking, skiing, etc.). To date, I've ran 5 marathons with a PR of 3:23 (including Boston marathon), and have a half marathon PR of 1:34. I also enjoy playing music and writing. I've been playing piano for 18 years and while I lived in Zürich, I was a singer in a local band. I occassionally write poetry and (less frequently) share it. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
