@@ -33,25 +33,32 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Visiting Doctoral Researcher
+      institution: Ecole Normale Superieure Group for Neural Theory
+      year: Oct. 2025 - Present
+      description:
+        - Lab of Srdjan Ostojic
+        - Studying learning dynamics in low-rank RNNs
+
     - title: Research Assistant
       institution: ETH Zürich Department of Computer Science
       year: Jan. 2022 - Jan. 2023
       description:
-        - Lab of Dr. João Sacramento
+        - Lab of João Sacramento
         - Studied the use of hypernetworks for meta-learning
 
     - title: Master's Student
       institution: University College London Department of Computer Science
       year: May 2021 - Dec. 2021
       description:
-        - Lab of Dr. Jun Wang, co-supervised by Dr. Matthew Crosby and Dr. Pedro Mediano
+        - Lab of Jun Wang, co-supervised by Matthew Crosby and Pedro Mediano
         - Studied the partial information decomposition of multitask neural networks across varying task settings in supervised and reinforcement learning models
 
     - title: Research Intern
       institution: Massachusetts Institute of Technology Brain and Cognitive Sciences
       year: June 2019 - Aug. 2020
       description:
-        - Lab of Dr. Tomaso Poggio
+        - Lab of Tomaso Poggio
         - Participated in the MIT Summer Research Program for two summers
         - Worked on adversarial reprogramming recurrent neural networks with the goal of repurposing them to operate in a novel task domain (from text classification to image classification)
 
@@ -69,24 +76,27 @@
       institution: University of North Carolina at Chapel Hill Department of Mathematics
       year: May 2018 - May 2020
       description:
-        - Lab of Dr. Peter Mucha
+        - Lab of Peter Mucha
         - Conducted statistical research analyzing changes in neural morphology of infant fMRI data
 
     - title: Research Assistant
       institution: University of North Carolina at Chapel Hill Department of Psychology and Neuroscience
       year: Jan. 2017 - May 2020
       description:
-        - Lab of Dr. Sylvia Fitting
+        - Lab of Sylvia Fitting
         - Conducted behavioral research in animal models, studying HIV-1 Tat's effects on operant conditioning tasks and how endocannabinoids can be used to protect against assessed behavioral deficits
 
 - title: Teaching
   type: time_table
   contents: 
-    - title: Graduate Teaching Assistant
-      institution: Computational Neurodynamics
+    - title: Explainable and Interpretable AI 
+      institution: Ecole Normale Superieure
+      year: Fall 2025
+    - title: Computational Neurodynamics
+      institution: Imperial College London
       year: Fall 2024
-    - title: Undergraduate Teaching Assistant
-      institution: Introduction to Research in Network Data Science
+    - title: Introduction to Research in Network Data Science
+      institution: University of North Carolina at Chapel Hill
       year: Spring 2019
 
 # - title: Supervision
